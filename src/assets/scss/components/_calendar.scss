@@ -1,0 +1,24 @@
+
+.calendar {
+	padding: 1em 1em .25em;
+	h5 {
+	text-align: center;
+	}
+
+}
+.featured-event {
+	h5 {
+		font-size: 18px;
+	}
+	h6 {
+		color:rgb(128, 128, 128);
+		font-size: 16px;
+		font-weight: bold;
+	}
+}
+.mark {
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 15px;
+}
