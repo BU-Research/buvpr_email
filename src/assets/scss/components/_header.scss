@@ -20,7 +20,13 @@
 	color: inherit;
 }
 .section-heading {
-	font-size: .825em;
+	
+}
+table.button.section table td {
+  background: yellow !important;
+  border-color: yellow;
+  color: black;
+  font-size: .825em;
 	text-align: center;
 	padding: .5em;
 	background-color: yellow;
