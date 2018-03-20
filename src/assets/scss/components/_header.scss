@@ -1,34 +1,54 @@
 .full {
-	padding: 0 !important;
+	margin: 0 !important;
+	Margin: 0 !important;
+
 }
 .rr-header {
 	border-bottom: solid 1px;
 	color: #fff;
 	background-color: #000;
 }
+.header-images {
+	margin: auto;
+}
 .text-center {
 	color: #CC0000;
 	display: inline-block;
 	vertical-align: middle;	
 	font-weight: bold;
-	padding: 15px;
+	padding-top: 20px;
+
 }
 
 .agate {
-	font-size: .85em;
-	padding: 0 2em;
-	color: inherit;
+	font-size: 85%;
+	margin: 0 20px 10px;
+	Margin: 0 20px 10px;
+	color: #fff;
+	max-width: 600px !important;
+	margin: auto;
 }
 .section-heading {
-	
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 10px;
+	font-size: 90%;
+	margin-top: 15px;
+	background-color: yellow;
+	line-height: 1.5em;
 }
+.section-heading-wrapper {
+	padding-bottom: 0 !important;
+}
+
 table.button.section table td {
   background: yellow !important;
   border-color: yellow;
   color: black;
-  font-size: .825em;
+  font-size: 12px;
 	text-align: center;
-	padding: .5em;
+	padding: 6px;
 	background-color: yellow;
 	text-transform: uppercase;
 	font-weight: bold;

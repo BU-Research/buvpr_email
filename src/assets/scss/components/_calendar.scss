@@ -1,6 +1,8 @@
 
 .calendar {
-	padding: 1em 1em .25em;
+	margin: 10px 0 5px 0;
+	Margin: 10px 0 5px 0;   // fallback for Outlook.com
+
 	h5 {
 	text-align: center;
 	}
@@ -20,5 +22,9 @@
 	text-transform: uppercase;
 	font-size: 16px;
 	font-weight: bold;
-	padding-bottom: 15px;
+	margin-bottom: 15px;
+	Margin-bottom: 15px;
+}
+.mc-date {
+	text-align: center;
 }

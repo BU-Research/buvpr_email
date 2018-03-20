@@ -1,18 +1,35 @@
 
 .item {
-	padding: 1em 1em .25em;
+	margin: 0 10px 15px;
+	Margin: 0 10px 15px;
 	}
 .item {
 	h5 {
 	font-weight: bold;
-	color: #404040;	
+	color: #404040;
+	margin-top: 10px;
 	}
 	a {
 		font-weight: bold;
 	}
+	h6 {
+	font-weight: bold;
+	font-size: 16px;
+	}
 }
-
+.list-item {
+	Margin-right: 15px !important;
+	Margin-left: 15px !important;
+}
+.caption {
+	font-size: 12px;
+	margin: 10px 0 10px 0;
+	Margin: 10px 0 10px 0;
+	color: inherit;
+}
 .item-last {
-	padding-bottom: 1em;
-	border-bottom: 1px solid;
+	padding-bottom: 25px;
+	Margin:0;
+	border-bottom:1px solid;
+	color:#404040;
 }
